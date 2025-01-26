@@ -1,3 +1,5 @@
+![logo](https://github.com/sugandhatiwari01/sugandhatiwari01/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sugandha Tiwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
