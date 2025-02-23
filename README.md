@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sugandha Tiwari</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://s4.ezgif.com/tmp/ezgif-4-f839e2ace1.gif">
+<img align="right" alt="coding" width="350" height="270" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugandhatiwari01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
