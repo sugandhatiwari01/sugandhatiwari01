@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="350" height="270" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugandhatiwari01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://github.com/sugandhatiwari01/sugandhatiwari01/blob/main/gif.webp" alt="Profile Views" /> </p>
 
 ### 💬 About Me
 - 📫 **How to reach me:** [sugandhatiwari41@gmail.com](mailto:sugandhatiwari41@gmail.com)
