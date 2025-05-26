@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/sugandhatiwari01/sugandhatiwari01/main/anim.mp4"  />
+  <img height="200" src="https://github.com/sugandhatiwari01/sugandhatiwari01/blob/main/anim.mp4"  />
 </div>
 
 ###
